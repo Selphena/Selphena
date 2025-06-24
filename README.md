@@ -1,16 +1,32 @@
-## Hi there 👋
+🎨 About Me
 
-<!--
-**Selphena/Selphena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌙 I’m made of metaphors, strong coffee, and soft promises.
+🦊 A little fox wandering between code, paintbrushes, and daydreams.
+🧠 I study Psychology and adore exploring the human mind with a touch of art.
+💻 I create small worlds in Python, HTML, CSS — and sometimes in dreams.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💖 Things I Love
+
+Turning feelings into code or illustrations
+
+Indie games, gentle beats, and cinnamon-spiced coffee
+
+Git commits that read like love notes
+
+Exploring the human soul as if it were a galaxy waiting to be mapped
+
+
+
+---
+
+🔧 Skills & Enchantments
+
+Language	Level of Enchantment
+
+Python 🐍	⭐⭐⭐⭐✨
+HTML/CSS 🌐	⭐⭐⭐⭐
+Markdown 📜	⭐⭐⭐⭐⭐
+Creativity 🎭	⭐🌟⭐🌟⭐
